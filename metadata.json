@@ -1,0 +1,6 @@
+{
+  "name": "HisobchiAI",
+  "description": "O‘zbekistondagi kichik biznes, frilanser va sotuvchilar uchun aqlli moliyaviy hisob-kitob va AI buxgalteriya platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
